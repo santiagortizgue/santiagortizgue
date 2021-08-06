@@ -1,4 +1,4 @@
-# Hi there, I'm Santiago :colombia:
+# Hi, I'm Santiago :colombia:
 I'm working as User Interface Designer at [Ilógica](https://www.ilogica.cl/).
 
 ## About me 
