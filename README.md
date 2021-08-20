@@ -2,7 +2,7 @@
 I'm working as User Interface Designer at [Ilógica](https://www.ilogica.cl/).
 
 ## About me 
-- My hobbies 📚  Learning | 📷  Photography 
+- My hobbies: 📚 Learning | 📷  Photography 
 - :earth_americas: I'm from Cali - Colombia
 
 ## Contact me :mailbox_with_no_mail:
