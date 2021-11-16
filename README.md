@@ -1,5 +1,5 @@
 # Hi, I'm Santiago :colombia:
-I'm working as User Interface Designer at [Ilógica](https://www.ilogica.cl/).
+I'm working as User Interface Designer at [Huge](https://www.hugeinc.com/fresh/).
 
 ## About me 
 - My hobbies: 📚 Learning | 📷  Photography 
