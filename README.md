@@ -8,7 +8,6 @@ I'm working as Senior Web Engineer at [Huge](https://www.hugeinc.com/fresh/).
 ## Contact me :mailbox_with_no_mail:
 [![Linkedin Badge](https://img.shields.io/badge/-Santiago_Ortiz-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/santiago-ortiz-guevara/)](https://www.linkedin.com/in/santiago-ortiz-guevara/) 
 [![Gmail](https://img.shields.io/badge/-santiagortizgue@gmail.com-black?style=flat-square&logo=Gmail)](mailto:santiagortizgue@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@santiagortizgue-black?style=flat-square&logo=twitter&link=https://twitter.com/santiagortizgue/)](https://twitter.com/santiagortizgue/)
 
 
 ### My Tech Experience
